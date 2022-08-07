@@ -1,7 +1,7 @@
 ### 안녕하세요! 개발자를 꿈꾸는 고승유입니다. 👋
 
 
-![Koseungyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Koseungyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koseungyu&show_icons=true&theme=radical)
 
 
 <!--
